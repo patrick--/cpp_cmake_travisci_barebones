@@ -1,0 +1,13 @@
+language: cpp
+dist: bionic
+compiler: gcc
+
+before_script:
+  - mkdir build
+  - cd build
+  - cmake ..
+
+script: 
+  - make
+  - ./cpp_cmake_travisci_barebones
+  
