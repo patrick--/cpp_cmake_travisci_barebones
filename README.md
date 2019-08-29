@@ -1,5 +1,6 @@
-# C++ Cmake & TravisCI Barebones Example
+# C++ Example with CMake & TravisCI
 
+[![Build Status](https://travis-ci.com/patrick--/cpp_cmake_travisci_barebones.svg?branch=master)](https://travis-ci.com/patrick--/cpp_cmake_travisci_barebones)
 
 ### Overview
 This is a small example of how to setup a C++ project using modern cmake and travis CI. 
